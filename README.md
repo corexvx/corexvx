@@ -1,16 +1,28 @@
-## Hi there 👋
+I'm a Business Computing student interested in media, design, and technology.
 
-<!--
-**corexvx/corexvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 I work with **DaVinci Resolve** for video editing — from cinematic sequences to short-form content.  
+🖼️ I use tools like **Photoshop** and **Illustrator** for graphic design, and I'm currently exploring **game development** with Unity.  
+🎮 I enjoy learning through building projects and experimenting with creative tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Skills & Tools
+
+- **Video Editing**: DaVinci Resolve, Fusion
+- **Design**: Photoshop, Illustrator
+- **Game Development**: Unity, C#
+- **Code Basics**: currenty learning web dev, can code in C and python
+
+---
+
+## 📁 Projects
+
+ye nothing i just made a few demo games with unity and some videos that got lost
+
+---
+
+## 🌐 Connect
+
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- Email:adamgnichi@gmail.com
+- [Portfolio](#) *(coming soon)*
