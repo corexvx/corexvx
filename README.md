@@ -1,4 +1,5 @@
 I'm a Business Computing student interested in media, design, and technology.
+[My Portfolio](https://corexvx.github.io/portfolio/)
 
 🎬 I work with **DaVinci Resolve** for video editing — from cinematic sequences to short-form content.  
 🖼️ I use tools like **Photoshop** and **Illustrator** for graphic design, and I'm currently exploring **game development** with Unity.  
