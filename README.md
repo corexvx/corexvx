@@ -24,6 +24,6 @@ ye nothing i just made a few demo games with unity and some videos that got lost
 
 ## 🌐 Connect
 
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/adam-guinichi-218038285/)
+- [LinkedIn]([https://www.linkedin.com/in/adam-guinichi-218038285/])
 - Email:adamgnichi@gmail.com
 - [My Portfolio](https://corexvx.github.io/portfolio/)
